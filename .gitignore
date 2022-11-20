@@ -7,7 +7,9 @@ db.sqlite3
 media
 static
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
+.idea/
+data/
 
 # Backup files # 
 *.bak 
@@ -19,6 +21,8 @@ static
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+
+compiled.txt
 
 # AWS User-specific
 .idea/**/aws.xml
